@@ -1,3 +1,5 @@
 function foo () {
-  return 'dsdsds'
+  if (true){
+    return 'dsdsds'
+  }
 };
